@@ -1,2 +1,2 @@
 # Python_autotests
-Пример автотестов на pytest + requests
+Мои автотесты на backend (pytest + requests)
